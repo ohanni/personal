@@ -1,0 +1,159 @@
+/******************************************* TAG SELECTORS *********************************************/
+body {
+      margin: 0;
+      text-align: center;
+      font-family: 'Raleway', sans-serif;
+      
+}
+
+h1 {margin: 50px auto 0 auto;
+    font-family: 'Arizonia', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.5rem;
+    color:#66BFBF ;
+    font-weight: 500;
+}
+h3 {color: #11999E;}
+
+hr { border-style:none;
+    border-top-style: dotted;
+    border-color:#EAF6F6 ;
+    width: 10%;
+    border-width: 5px;
+  } 
+
+
+
+
+
+
+
+/******************************************* .CLASS SELECTORS *********************************************/
+.top-container {
+    background-color: #CBE4DE;
+    padding-top: 100px ;
+    position: relative;
+    margin: 0;
+
+}
+
+.bottom-container { 
+     background-color: #66BFBF;
+    margin-bottom: 0;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+ 
+ .top-cloud {
+    position:absolute;
+    left:200px;
+    top: 50px;
+    width: 5%;
+ }
+ .bottom-cloud {
+    position:absolute;
+    right: 250px;
+    bottom: 350px;  width: 5%;
+ }
+ .cloud-rain{
+    position:absolute;
+    width: 2%;
+    height: 15%;
+    top: 220px;
+     }
+ .page-two {
+    font-family: 'Zilla Slab', serif;
+ }
+ .profile { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;}
+ .size{ width: 5%;}
+ .heading{font-family: 'Raleway', sans-serif; }
+ .fitness { display: block;
+            float: left;
+            margin-right: 30px;
+    
+    width: 25%;}
+ .cars { display: block;
+        
+        float: right;
+        width: 25%;
+        margin-left: 30px;
+        }
+
+ .coding { display: block;
+           width: 25%;
+           margin-left: 30px;
+           float: right;
+        }
+.main-profile {width: 50%;
+               padding-top: 50px;
+               margin: 0px auto 0px auto;
+               padding-bottom: 50px;
+              }
+.skill-row{ width: 50%;
+            margin: 100px auto 100px auto ;
+            text-align: left;
+            padding-top: 30px;
+            padding-bottom: 30px;}
+.paragraph {line-height: 2;}  
+.contact-me {width: 50%;
+             margin: 50px auto 50px auto;
+             padding-top: 30px;
+             padding-bottom: 30px; line-height: 2;}
+.footer { margin-bottom: 0px; color: #EAF6F6; padding-top: 30px; text-decoration: none;} 
+.footer-link {color:#11999E; 
+              padding: 20px;
+              font-weight: bold;
+              text-decoration: none;
+}  
+.footer-link:hover { color:#EAF6F6; } 
+.BUTTON_BCK {
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+    background-image: -moz-linear-gradient(top, #11999E, #11999E);
+    background-image: -ms-linear-gradient(top, #11999E, #11999E);
+    background-image: -o-linear-gradient(top, #11999E, #11999E);
+    background-image: -webkit-gradient(to bottom, #11999E, #11999E);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 7px 15px 7px 15px ;
+    -webkit-box-shadow: 1px 1px 10px 0 #000000;
+    -moz-box-shadow: 1px 1px 10px 0 #000000;
+    box-shadow: 1px 1px 10px 0 #000000;
+    text-shadow: 1px 1px 10px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    
+ }
+ 
+ .BUTTON_BCK:hover {
+    border: solid #11999E 1px;
+    background: #11999E;
+    background-image: -webkit-linear-gradient(top, #11999E, #11999E);
+    background-image: -moz-linear-gradient(top, #11999E, #11999E);
+    background-image: -ms-linear-gradient(top, #11999E, #11999E);
+    background-image: -o-linear-gradient(top, #11999E, #11999E);
+    background-image: -webkit-gradient(to bottom, #11999E, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }     
+
+/******************************************* #ID SELECTORS *********************************************/
+
+
